@@ -274,7 +274,96 @@ Queda de esta manera..
 _Observamos que deja la opción de restaurarla, si quisieramos hacerlo en algún momento_
 
 Creamos una etiqueta v1.2
+
 ![imagen](https://user-images.githubusercontent.com/71660964/96334178-fd79d880-106e-11eb-8c02-dda9a0a15779.png)
+
 Vemos como queda
+
 ![imagen](https://user-images.githubusercontent.com/71660964/96334190-1d110100-106f-11eb-90c6-c8924fc139c6.png)
+
+Creamos un nuevo fichero llamado DOCUMENT.MD (con toda la tarea realizada hasta ahora)
+
+![imagen](https://user-images.githubusercontent.com/71660964/96334324-25b60700-1070-11eb-8d28-ac7e157ef3e9.png)
+
+![imagen](https://user-images.githubusercontent.com/71660964/96334271-c35d0680-106f-11eb-9f8c-37e87150bb27.png)
+
+![imagen](https://user-images.githubusercontent.com/71660964/96334310-0b7c2900-1070-11eb-897d-5ffc891c062b.png)
+
+Queda el proyecto de esta manera 
+
+![imagen](https://user-images.githubusercontent.com/71660964/96334340-4c743d80-1070-11eb-8547-be91031972a6.png)
+
+Ahora vamos a crear una  **gh-page** 
+
+**_Esto crea una rama de código especial llamada gh-pages que es publicada en una ubicación especial_**
+
+![imagen](https://user-images.githubusercontent.com/71660964/96335111-48e3b500-1076-11eb-9dc0-283b5cd09880.png)
+
+Vemos como queda la rama y el respositorio
+
+![imagen](https://user-images.githubusercontent.com/71660964/96335220-77ae5b00-1077-11eb-8132-7670141a7a84.png)
+
+```sh
+  https://apaisgarcia.github.io/DiarioAlia/
+```
+Creamos en master el archivo README.md
+
+![imagen](https://user-images.githubusercontent.com/71660964/96335439-de804400-1078-11eb-8229-bcd55f7b8c01.png)
+
+![imagen](https://user-images.githubusercontent.com/71660964/96335600-1cca3300-107a-11eb-9bd3-bfbfddfb14eb.png)
+
+
+**Como podemos ver el enlace ?**
+
+![imagen](https://user-images.githubusercontent.com/71660964/96335636-64e95580-107a-11eb-83c0-f6eb188d5a0f.png)
+
+![imagen](https://user-images.githubusercontent.com/71660964/96335659-77638f00-107a-11eb-9801-bdfb56ec9a29.png)
+
+Y así queda el enlace si lo abres :
+
+![imagen](https://user-images.githubusercontent.com/71660964/96335749-08d30100-107b-11eb-8292-a81b14c1045d.png)
+
+```sh
+**Anotación: En algunos ordenadores deja el logo a la izquierda y la escritura a la derecha.
+```
+
+## Repositorio Local
+
+Ahora vamos a actualizar la carpeta que tenemos en nuestro escritorio (repositorio remoto)
+
+
+![imagen](https://user-images.githubusercontent.com/71660964/96336299-0ecae100-107f-11eb-985f-3b42798531b8.png)
+
+Vemos lo que tenemos en la carpeta (los archivos)
+
+![imagen](https://user-images.githubusercontent.com/71660964/96336319-27d39200-107f-11eb-9b5c-2ea342cb402c.png)
+
+Y para ver que todo esté bien miramos el archivo README.md (podríamos revisar todo, pero el este archivo es pequeño y para lo que queremos ver es suficiente)
+
+![imagen](https://user-images.githubusercontent.com/71660964/96336335-48035100-107f-11eb-8bc0-da505af6e83f.png)
+
+## Generando conflictos
+
+Ahora vamos a realizar cambios para tener conflictos
+
+creamos una nueva rama y realizamos cambios sobre el color de la página
+
+![imagen](https://user-images.githubusercontent.com/71660964/96489041-2c46a900-123f-11eb-8692-6e4693b25d5a.png)
+
+![imagen](https://user-images.githubusercontent.com/71660964/96489141-526c4900-123f-11eb-8de6-9dc09bacbb61.png)
+
+ahora volvemos a master y realizamos un cambio en el css , le pongo que quiero el fondo rojo.
+![imagen](https://user-images.githubusercontent.com/71660964/96489433-bbec5780-123f-11eb-9696-90955f918719.png)
+
+![imagen](https://user-images.githubusercontent.com/71660964/96489296-8e9fa980-123f-11eb-9848-be6d192352ae.png)
+
+
+
+Arreglamos el conflicto
+
+![imagen](https://user-images.githubusercontent.com/71660964/96490885-be4fb100-1241-11eb-8b57-8052fbf1b624.png)
+
+Y vemos como queda desde GitHub
+
+![imagen](https://user-images.githubusercontent.com/71660964/96491344-649bb680-1242-11eb-8d77-f5566782f60b.png)
 
