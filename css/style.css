@@ -1,12 +1,15 @@
 html {
   margin: 0;
   padding: 0;
+
   background-color:  #edcec7;
+
+
 
   }
 body {
   width: 940px;
-  margin: 0 acte;
+  margin: 1 acte;
   font: 10pt/1.5em Helvetica,"Helvetica neue", Arial, sans-serif;
   }
 header,section,article,aside,footer{
