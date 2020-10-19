@@ -1,6 +1,8 @@
 html {
   margin: 0;
   padding: 0;
+  background-color:  #edcec7;
+
   }
 body {
   width: 940px;
@@ -37,7 +39,7 @@ section{
     height: 100px;
     padding: 10px;
     color:#200f08 ;
-   
+
     background:#fff;
   }
   h1 {
